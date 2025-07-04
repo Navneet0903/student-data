@@ -13,4 +13,4 @@ This project analyzes student performance data to identify trends and at-risk st
 
 ## How to Use
 
-You can load the dataset into a Jupyter Notebook or Python script and explore further analytics or build a Streamlit dashboard.
+You can load the dataset into a Jupyter Notebook or Python script and explore further analytics or build a googe colab dashboard.
